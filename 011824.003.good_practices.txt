@@ -1,0 +1,15 @@
+The Pragmatic Programmer
+Clean Code - Robert C Martin
+
+Variables
+
+- Las variables, deben de describir que es lo que guardan
+- Los nombres de las variables no deben de ser muy largos
+- Las variables no deben iniciar con letra mayúscula
+- Las variables no deben iniciar con número guión bajo o algún caracter especial
+
+3 formas de declarar variables
+
+1.camelCase = firstName
+2.snake_case / under_score = first_name
+3.lowercase = firstname
