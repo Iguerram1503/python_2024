@@ -1,6 +1,10 @@
 '''
 001.List
 Una lista es un tipo de variable que permite almacenar varios datos 
+
+Los datos que pueden guardar las listas son 
+
+(int, float)
 '''
 
 list_my_students = ['Maggie', 'Ibrahim', 'Paulina', 'Octavio', 'Ulises']
@@ -56,3 +60,13 @@ print(list_my_students)
 
 list_my_students.pop()
 list_my_students.pop()
+
+print('\n\n')
+
+print('.sort')
+
+print(list_my_students)
+
+list_my_students.sort
+
+print(list_my_students)
