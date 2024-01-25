@@ -27,3 +27,5 @@ print(phone[0:10: 2])
 print(phone[:3])
 print(phone[-1])
 print(phone[::-1])
+
+#test
