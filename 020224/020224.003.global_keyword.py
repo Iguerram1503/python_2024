@@ -17,4 +17,4 @@ def print_total_2():
     total += 1
     print(total)
 
-print_total_2()
+print_total_2() 
